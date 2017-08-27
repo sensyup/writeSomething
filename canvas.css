@@ -1,0 +1,19 @@
+#mycanvas {
+
+	display: block;
+	margin:0 auto;
+	/*border: 1px solid #aaa;*/
+}
+#outside{
+	margin:0 auto;
+}
+#clear{
+	width:100px;
+	height:40px;
+	float:right;
+	margin-top:10px;
+
+}
+body{
+	background-color: black;
+}
